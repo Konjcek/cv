@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 2.5rem;
+}
+
+.name-heading {
+    position: relative;
+    top: 90px;
+}
+
+.description {
+    position: relative;
+    top: 70px;
+    font-family: "Poppins", sans-serif;
+}
+
+.top-container {
+    background-color: #f5f5f5;
+    padding-top: 100px;
+    width: 100%;
+    padding-bottom: 330px;
+}
+
+.top-cloud {
+    position: relative;
+    top: 80px;
+    left: 300px;
+}
+
+.bottom-cloud {
+    position: relative;
+    bottom: 230px;
+    right: 50px;
+}
+
+.mountain {
+    position: relative;
+    top: 100px;
+    right: 50px;
+    margin: auto;
+}
+
+.image-of-me {
+    padding-top: 100px;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+.tt-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 40%;
+}
+
+.food-img {
+    height: 300px;
+    width: 350px;
+    border-radius: 40%;
+}
+
+.aboutme-heading {
+    font-family: "Poppins", sans-serif;
+}
+
+.middle-container {
+    background-color: #eeeeee;
+}
+
+.bottom-container {
+    background-color: #393e46;
+    color: white;
+}
+
+.hr-styling {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 7px;
+    height: 2px;
+    width: 15%;
+}
+
+.desc-class {
+    padding-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.desc-class-second {
+    font-family: "Poppins", sans-serif;
+}
+
+.desc-class-third {
+    font-family: "Poppins", sans-serif;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+.skills-heading {
+    font-family: "Poppins", sans-serif;
+    padding-top: 30px;
+}
+
+.small-headings {
+    font-family: "Poppins", sans-serif;
+    padding-bottom: 10px;
+}
+
+.contactme {
+    padding-top: 20px;
+    font-family: "Poppins", sans-serif;
+    margin-top: 0;
+}
+
+.copyright-p {
+    margin: 0;
+    padding-bottom: 10px;
+    font-family: "Poppins", sans-serif;
+}
+
+.footer-link {
+    padding-bottom: 0px;
+    text-decoration: none;
+}
+
+.contactme-p {
+    font-family: "Poppins", sans-serif;
+    padding-bottom: 15px;
+}
+
+.btn {
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-button {
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    color: black;
+    padding: 5px;
+    position: relative;
+    left: 760px;
+    bottom: 80px;
+}
